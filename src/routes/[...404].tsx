@@ -8,9 +8,9 @@ export default function NotFound() {
       <HttpStatusCode code={404} />
       <h1>Alejo N. Terreno</h1>
       <p>
-        Visita{" "}
+        Visita mi{" "}
         <a href="https://www.linkedin.com/in/terrenoa/" target="_blank">
-          mi LinkedIn
+           LinkedIn
         </a>{" "}
         para conocerme un poco más.
       </p>
